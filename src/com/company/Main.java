@@ -11,5 +11,7 @@ public class Main {
         Ex3 Exercise3= new Ex3();
         Exercise3.MyLocalTime();
         Exercise3.GlobalTime();
+        Ex4 Exercise4 = new Ex4();
+        Exercise4.getData();
     }
 }
